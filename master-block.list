@@ -123235,6 +123235,10 @@
 0.0.0.0 ad.doubleclick.com
 0.0.0.0 ads.doubleclick.com
 0.0.0.0 doubleclick.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 g.doubleclick.net
 0.0.0.0 tracker.celtra.com
 0.0.0.0 trackers.celtra.com
 0.0.0.0 celtra.com
